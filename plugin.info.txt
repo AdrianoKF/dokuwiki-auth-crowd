@@ -1,0 +1,7 @@
+base	authcrowd
+author	Adrian Rumpold
+email	a.rumpold@gmail.com
+date	2016-08-18
+name	Atlassian Crowd authentication plugin
+desc	Allows authentication against the Atlassian Crowd identity management solution
+url	https://rumpold-it.de/dokuwiki-auth-crowd
